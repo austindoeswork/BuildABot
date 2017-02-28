@@ -29,9 +29,9 @@ list of language examples:
 
 ## 1 Credentials
 
-- Go to <a href="npcompete.io">npcompete.io</a>
+- Go to <a href="http://npcompete.io">npcompete.io</a>
 - Signup with a username and password 	
-- Get your devkey under your <a href="npcompete.io/profile">profile</a> 
+- Get your devkey under your <a href="http://npcompete.io/profile">profile</a> 
 - Do not share this key, as it will identify your bot
 - nice
 
